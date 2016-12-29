@@ -1,0 +1,18 @@
+{
+	"groups":[
+	{
+		"keys":"bg, tv",
+		"name":"preload"
+	}],
+	"resources":[
+	{
+		"name":"bg",
+		"type":"image",
+		"url":"assets/step1/bg.jpg"
+	},
+	{
+		"name":"tv",
+		"type":"image",
+		"url":"assets/step1/tv.png"
+	}]
+}
